@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200">
+  <title>Placeholder loss curve</title>
+  <rect width="400" height="200" fill="white" stroke="black" />
+  <polyline fill="none" stroke="purple" stroke-width="2" points="40,160 120,140 200,110 280,90 360,80" />
+  <text x="20" y="20" font-size="14">Reconstruction loss (placeholder)</text>
+</svg>
