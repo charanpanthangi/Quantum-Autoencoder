@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="160" viewBox="0 0 400 160">
+  <title>Placeholder latent space</title>
+  <rect width="400" height="160" fill="white" stroke="black" />
+  <line x1="40" y1="80" x2="360" y2="80" stroke="gray" stroke-dasharray="4" />
+  <circle cx="80" cy="80" r="6" fill="teal" />
+  <circle cx="180" cy="80" r="6" fill="teal" />
+  <circle cx="280" cy="80" r="6" fill="teal" />
+  <text x="20" y="20" font-size="14">Latent probability (placeholder)</text>
+</svg>
